@@ -1,0 +1,6 @@
+#One might have to hide some stuff, like when you're working on a thing
+#you don't want everybody to see everything, especially on your github repo
+#So you use a .gitignore file for that kind of thing
+#Here I migh want not to upload the __pycache__ folder/directory
+# -->
+__pycache__/
